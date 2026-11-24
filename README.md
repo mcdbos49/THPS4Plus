@@ -33,3 +33,8 @@ This covers some misc. stuff about the mod.
 ## Building
 
 TBD
+
+## Credits to crosire for d3d8to9
+
+
+Copyright (C) 2015 Patrick Mours. All rights reserved.
