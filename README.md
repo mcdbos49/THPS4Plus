@@ -31,7 +31,7 @@ On the other hand, this is how THPS4+ does it. Proper Hor+ widescreen support fo
 
 <img width="1920" height="1080" alt="d" src="https://github.com/user-attachments/assets/e53cebc2-b184-4354-9de6-3c22d9cd9aa1" />
 
-But that's not all. THPS4+ comes bundled with it's own HD UI textures. Have a look.
+But that's not all. THPS4+ comes bundled with its own HD UI textures. Have a look.
 
 <img width="1920" height="1080" alt="f" src="https://github.com/user-attachments/assets/5082ce37-9f69-43c1-8ea8-3b5bebb12c67" />
 
