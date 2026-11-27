@@ -43,7 +43,7 @@ The game also renders perfectly at any resolution. Here it is at `3840 x 1080`.
 ## Installation
 
 
-Installation is super simple. Dowload the .zip file and extract it into your `THPS4/Game/` folder.  On Wine, you will need to add `D3D8.dll` as a .dll override.
+Installation is super simple. Dowload the .zip file from the Releases page and extract it into your `THPS4/Game/` folder.  On Wine, you will need to add `D3D8.dll` as a .dll override.
 
 ## Notes
 
@@ -51,7 +51,7 @@ This covers some misc. stuff about the mod.
 
 - If you use dgVoodoo, or another Direct3D 8 wrapper, you MUST delete it. This mod will overwrite it and may break your game. The mod comes bundled with DXVK, so it won't be necessary.
 - A lot of the HUD textures were either taken from reTHAWed or AI upscaled. I'm a modder, not a graphic designer. If you are willing to make some higher quality textures, feel free.
-- 
+
 ## Building
 
 Building is going to require MINGW32, part of MSYS2.
