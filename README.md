@@ -75,6 +75,7 @@ Run `Skate4.exe` and enjoy!
 I plan to keep working on this mod, but so I'm leaving a list of things to work on in the future from most likely to least likely.
 
 - Ports to THPS2, THPS3, THUG, THUG2, and maybe even THAW (THUG is already in the works!)
+- A simpler, easier to read `THPS4Plus.ini` file 
 - High Quality audio loading
 - Fixes involving distance clipping
 - 3D rendering optimization on wider screens
